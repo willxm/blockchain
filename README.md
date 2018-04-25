@@ -1,7 +1,7 @@
 # Blockchain
-a simple blockchain only with data struct and serve http service
+a simple blockchain only with data struct and serve http service written with golang
 
-## How to use it
+## How to try it
 
 - run
 
