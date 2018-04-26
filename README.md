@@ -11,6 +11,9 @@ $ go get github.com/willxm/blockchain
 ```shell
 $ cd $GOPATH/src/github.com/willxm/blockchain
 ```
+```shell
+$ go run main.go
+```
 
 - get blockchain info
 ```shell
